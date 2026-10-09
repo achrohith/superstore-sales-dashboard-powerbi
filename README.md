@@ -1,7 +1,8 @@
 # Super Store Sales Dashboard
 An interactive Power BI dashboard analysing sales, profit, shipping and customer behaviour for a US retail store (2019-2020).
 
-<img width="1355" height="768" alt="image" src="https://github.com/user-attachments/assets/5a9b9985-f670-44f2-b600-479d1da84ce0" />
+<img width="1366" height="787" alt="image" src="https://github.com/user-attachments/assets/d02b6df3-0fb4-4284-b69a-362c7a82998f" />
+
 
 ## Project Overview
 This project presents an end-to-end sales analysis built in Power BI. The dashboard gives management a single view of revenue, profit, delivery performance and customer preferences, and allows filtering by region to support data-driven decisions.

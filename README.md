@@ -14,7 +14,7 @@ This project presents an end-to-end sales analysis built in Power BI. The dashbo
 - Understand customer payment preferences.
 
 ## Dashboard Features
-- **KPI cards:** Total Sales, Profit, Quantity and Average Ship Days.
+- **KPI cards:** Total Sales, Profit, Orders and Average Ship Days.
 - **Region slicer:** Central, East, South and West buttons filter every visual.
 - **Composition charts:** Sales by Region, Segment and Payment Mode.
 - **Trend analysis:** Monthly Sales and Monthly Profit, compared by year.
@@ -24,6 +24,7 @@ This project presents an end-to-end sales analysis built in Power BI. The dashbo
 
 ## Key Insights
 - Total sales reached **$1.6M** with a profit of **$175K**, a margin of roughly **11%**.
+- The store handled **3,003 orders**, an average of about **$530 in sales per order**.
 - **West (33%)** and **East (29%)** contribute about 62% of total sales, while **South (16%)** is the weakest region.
 - The **Consumer** segment leads with **48%** of sales, followed by Corporate (33%) and Home Office (19%).
 - **Office Supplies** is the top category ($0.64M), followed by Technology ($0.47M) and Furniture ($0.45M).
